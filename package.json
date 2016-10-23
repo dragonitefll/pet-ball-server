@@ -1,0 +1,23 @@
+{
+  "name": "pet-ball-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dragonitefll/pet-ball-server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dragonitefll/pet-ball-server/issues"
+  },
+  "homepage": "https://github.com/dragonitefll/pet-ball-server#readme",
+  "dependencies": {
+    "firebase": "^3.5.1",
+    "websocket": "^1.0.23"
+  }
+}
